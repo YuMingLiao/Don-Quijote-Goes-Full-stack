@@ -2,7 +2,7 @@
 
 Welcome!
 
-Here is my journey about being a full-stack helloworlder.
+Here is my journey about being a full-stack "helloworlder".
 
 I've collected a bunch of my favorite tools and made my favorite toolchain for general-purpose development.
 
