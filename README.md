@@ -1,7 +1,6 @@
-# Don Quijote Goes Full-Stack
-Don Quijote Goes Full-Stack: A Naive Exploration Of Collecting the Ultimate Toolkit
+### Don Quijote Goes Full-Stack: A Naive Exploration Of Collecting the Ultimate Toolkit
 
-Welcome to "Don Quijote Goes Full-Stack"!
+Welcome!
 
 Here is my journey about being a full-stack helloworlder.
 
