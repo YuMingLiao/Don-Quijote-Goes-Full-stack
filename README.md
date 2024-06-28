@@ -4,7 +4,7 @@ Welcome!
 
 Here is my journey about being a full-stack "helloworlder".
 
-I've collected a bunch of my favorite tools and made my favorite toolchain for general-purpose development.
+I've been trying to collect a bunch of my favorite tools and make my favorite toolchain for general-purpose development.
 
 * [Haskell](https://www.haskell.org/): functional and typed, easy to maintain and refactor. 
 * [project-m36](https://github.com/agentm/project-m36): relational algebra engine, mathematically-sound expressions.
